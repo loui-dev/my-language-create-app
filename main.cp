@@ -7,3 +7,4 @@ start main(@NonNull args: Array<String>) {
     thing.let { test: ->    }
 
     val string = "${getThing()}"
+        &&dsadadsa
